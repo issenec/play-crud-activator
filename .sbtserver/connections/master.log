@@ -1,0 +1,7 @@
+New log file opened at Sun Feb 21 23:41:33 EST 2016 by 3672@localhost.localdomain
+Taking next connection to: 59383
+New client attempting to connect on port: 51761-59383
+  Address = /127.0.0.1:59383
+This client on port 51761 has uuid 518630ba-62f5-4c76-9a6c-dc219a55a498 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-518630ba-62f5-4c76-9a6c-dc219a55a498
+Taking next connection to: 59383
